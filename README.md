@@ -1,4 +1,4 @@
-In this App I am learning about calling APIs from c# console apps.
+This is from following the tutorial on TheCsharpAcademy Youtube page.
 
 Requirements:
 
